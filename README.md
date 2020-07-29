@@ -1,5 +1,5 @@
 ## Hi, I'm Anuj 😎🎯🤖
-![](preview.jpg)
+![Anuj](preview.jpg)
 
 
 #### I am a bachelor student in technology and my stream is Computer Science. I am interested in Artificial Intelligince/Machine Learnnig. I am working on the projects related to AI/ML.

@@ -1,5 +1,5 @@
 ## Hi, I'm Anuj 😎🎯🤖
-![Anuj](preview.jpg)
+<img src="https://raw.githubusercontent.com/shrisudha999/shrisudha999/master/preview.png">
 
 
 #### I am a bachelor student in technology and my stream is Computer Science. I am interested in Artificial Intelligince/Machine Learnnig. I am working on the projects related to AI/ML.

@@ -6,12 +6,18 @@ I am a bachelor student in technology and my stream is Computer Science. I am in
 
 ### Check Out My Work !
 
-#### Catch me on:
-##### ![Linkdin](https://www.linkedin.com/in/anuj-singh-8b87ab148/) 
-##### ![Stackoverflow]( https://stackoverflow.com/users/12033940/the-chef-anuj)
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on open source machine learning communities. 
+- 💬 Open to disscuss tech related problems/stuff.
+- 📫 How to reach me: [Twitter - @The_chef_anuj07](https://twitter.com/The_chef_anuj07) , [LinkedIn - Anuj Singh](https://www.linkedin.com/in/anuj-singh-8b87ab148/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a Rider.
 
-#### Ping me:
-##### Mail: as4773419@gmail.com
+
+### Catch me on:
+- [LinkedIn](https://www.linkedin.com/in/anuj-singh-8b87ab148/) 
+- [Stackoverflow](https://stackoverflow.com/users/12033940/the-chef-anuj)
+- Shot me a Mail: as4773419@gmail.com
 
 <!--
 **shrisudha999/shrisudha999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

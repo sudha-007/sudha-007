@@ -7,8 +7,8 @@ I am a bachelor student in technology and my stream is Computer Science. I am in
 ### Check Out My Work !
 
 #### Catch me on:
-##### Linkdin: https://www.linkedin.com/in/anuj-singh-8b87ab148/ 
-##### Stackoverflow: https://stackoverflow.com/users/12033940/the-chef-anuj
+##### ![Linkdin](https://www.linkedin.com/in/anuj-singh-8b87ab148/) 
+##### ![Stackoverflow]( https://stackoverflow.com/users/12033940/the-chef-anuj)
 
 #### Ping me:
 ##### Mail: as4773419@gmail.com

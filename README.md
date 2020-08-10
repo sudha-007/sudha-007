@@ -15,7 +15,7 @@ I am a bachelor student in technology and my stream is Computer Science. I am in
 
 
 ### Catch me on:
-- [LinkedIn](https://www.linkedin.com/in/anuj-singh-8b87ab148/) 
+- [LinkedIn](https://www.linkedin.com/in/anuj-singh-8b87ab148/)   
 - [Stackoverflow](https://stackoverflow.com/users/12033940/the-chef-anuj)
 - Shot me a Mail: as4773419@gmail.com
 

@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/shrisudha999/shrisudha999/master/preview.png">
 
 
-I am a bachelor student in technology and my stream is Computer Science. I am interested in Artificial Intelligince/Machine Learnnig. I am working on the projects related to AI/ML. I am good in mathematics😎 & love exploring in physics. I am a very easy and calm person😉.  
+I am a bachelor in technology student and my stream is Computer Science. I am interested in Artificial Intelligince/Machine Learnnig. I am working on the projects related to AI/ML. I am good in mathematics😎 & love exploring in physics. I am a very easy and calm person😉.  
 
 ### Check Out My Work !
 

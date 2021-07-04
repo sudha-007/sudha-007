@@ -17,7 +17,7 @@ I am a bachelor in technology student and my stream is Computer Science. I am in
 ### Catch me on:
 - [LinkedIn](https://www.linkedin.com/in/anuj-singh-8b87ab148/)   
 - [Stackoverflow](https://stackoverflow.com/users/12033940/the-chef-anuj)
-- Shot me a Mail: as4773419@gmail.com
+- Shot me a Mail: dmartin2629@gmail.com
 
 <!--
 **shrisudha999/shrisudha999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,7 @@
 # Hi, I'm Anuj 😎🎯🤖
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sudha-007.sudha-007)  [![Github](https://img.shields.io/github/followers/sudha-007?label=Followers&logo=Github)](https://github.com/sudha-007)
+
 <img src="https://raw.githubusercontent.com/shrisudha999/shrisudha999/master/preview.png">
 
 
